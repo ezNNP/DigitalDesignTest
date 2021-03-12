@@ -1,0 +1,11 @@
+abc,abc
+2[abc],abcabc
+2[3[x]y],xxxyxxxy
+3[xyz]4[xy]z,xyzxyzxyzxyxyxyxyz
+10[x],xxxxxxxxxx
+2[x2[y]],xyyxyy
+100[x],xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+0[x],
+100[],
+5[5[x]],xxxxxxxxxxxxxxxxxxxxxxxxx
+2[2[x]2[y]],xxyyxxyy
